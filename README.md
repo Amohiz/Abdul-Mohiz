@@ -14,7 +14,7 @@ My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz)
 🌁 Born in Pakistan and raised in Richmond, CA (East Bay Area)  
 🧳 Moved to the states when I was two with my mother while my father was here working.    
 🐻 Began my college journey at Cal as an undergrad pursuing Economics 
-💻 Shortly after, I took my first Intro to Economics class taught by Professor Olney- I became drawn to it   
+         💻 Shortly after, I took my first Intro to Economics class taught by Professor Olney- I became drawn to it   
 🧑‍🏫 Worked various independent roles to support the family while being a full time student.      
 🔋 Landed my first full time job at JonesIT(https://www.itjones.com) the last semester I was at Cal. Currently working there as an IT Consultant. However, in my freetime, I am learning Python and enjoying the language and looking to grow in the corporate world. 
 ❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data analyst, product management, and entry level programming      
