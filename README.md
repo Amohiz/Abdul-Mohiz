@@ -1,9 +1,9 @@
 #### This is my personal website. Read on below to learn more about me!
 <br/>
 
-<<p align="center">
-  <img src="(https://user-images.githubusercontent.com/118480900/207978589-f29e5650-6b37-4961-b602-72b0be33b2b6.png)" 
- width="250"/</p
+<p align="center">
+  <img src="pfp.png" width="250"/>
+</p>
 
 ## An introduction 🤝🏼
 My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz). I graduated from UC Berkeley May 2022, and currently am on the path to grow in my career! Go Bears!  
