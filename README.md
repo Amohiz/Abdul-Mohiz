@@ -3,7 +3,8 @@
 
 <p align="center">
   <img
- src="[IMG_3756](https://user-images.githubusercontent.com/118480900/207977800-c258ddb5-6412-45b8-a5e7-86cb30c28406.png) " width="250"/>
+ src="![IMG_3756](https://user-images.githubusercontent.com/118480900/207977980-0a5e5474-dabd-4285-92ce-438ab36366a8.png)
+" width="250"/>
 </p>
 
 ## An introduction 🤝🏼
