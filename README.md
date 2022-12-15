@@ -6,11 +6,11 @@
 </p>
 
 ## An introduction 🤝🏼
-My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm a soon-to-be alumni of UC Berkeley, where I've studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offered through our university's school of engineering.   
+My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz). I graduated from UC Berkeley May 2022, and currently am on the path to grow in my career! Go Bears 
 
 
 ## My background 💁🏻‍♂️
-🌁 Born and raised in Berkeley, CA (East Bay Area)  
+🌁 Born in Pakistan and raised in Richmond, CA (East Bay Area)  
 🧳 Moved one city over to the El Cerrito / Richmond area right before 7th grade and attended high school there    
 🐻 Began my college journey at Cal as an undergrad pursuing data science   
 💻 Shortly after, I took my first data science / programming course and became really drawn to it     
@@ -31,7 +31,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས�
 
 ## How to reach me 📬
 LinkedIn: [https://www.linkedin.com/in/tenzinchoezin/](https://www.linkedin.com/in/tenzinchoezin/)      
-Email: [tenzin.p.choezin@gmail.com](tenzin.p.choezin@gmail.com)  
+Email: [abdulmohiz@berkeley.edu](abdulmohiz.berkeley.edu)  
 GitHub: [https://github.com/tenzin-choezin](https://github.com/tenzin-choezin)
 
 
