@@ -7,16 +7,11 @@
 
 
 ## An introduction 🤝🏼
-My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz). I graduated from UC Berkeley May 2022, and currently am on the path to grow in my career! Go Bears!  
+My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz). I am the only child and I come from a low income household. I'm also the first in my family to go college. I graduated from UC Berkeley in May 2022, and I currently am on the path to grow in my career! Go Bears!  
 
 
 ## My background 💁🏻‍♂️
-🌁 Born in Pakistan 🇵🇰 and raised in Richmond, CA (East Bay Area). Being born in Pakistan and migrating to the United States as a two-year-old with my mother while my father working day and night taught me the importance of hard work. 
-My mother being a homemaker taught me the values of life. 
-Being an only child, I was to fend for myself and it resulted in me becoming the first in my family to attend college, making me a first-generation college student. 
-Because of the number of struggles my family went through, I found my motivation; my family. 
-I keen on becoming successful.
-However, I'm still grateful for these struggles because if it weren’t for these struggles, I may have never co-founded a clothing brand, SalamNation as a junior in high school or be admitted to UC Berkeley right after highschool, and give back to my community with any means possible.
+🌁 Born in Pakistan 🇵🇰 and raised in Richmond, CA (East Bay Area). 
 🧳 Murphy Elementary => Portola Middle => EC High => UC Berkeley => JonesIT => What's next? 
 🐻 Began my college journey at Cal as an undergrad pursuing Political Economics   
 💻 Shortly after, I took my first Intro to Economics class taught by Professor Olney, I became really drawn to it.       
