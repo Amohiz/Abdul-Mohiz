@@ -23,11 +23,11 @@ Soon after, I enrolled in Professor Olney's Intro to Economics class; I was draw
 ## Hobbies of mine 🙈
 🏀 Playing basketball ⛹️‍♂️       
 🎽 Doing basically any sort of outdoor/sporty/competitive activity ➡️ 🏂 🏊‍♂️ 🏓 🚴 🏋️ 🚣‍ ⛳ 🎱            
-🍳 Eating all types of food 👨‍🍳     
-🤑 Finding different ways to get money
-🖤 Spending time with Family and Friends 
-📚 Reading books 🔖 (mainly genres like science & technology, business and finance, religion, and history)          
-🗺️ Traveling, exploring, and simply learning about new cities, countries, and cultures    
+🍳 Eating all types of food 👨‍                                                                                                                               
+🤑 Finding different ways to get money                                                                                                                      
+🖤 Spending time with Family and Friends                                                                                                                    
+📚 Reading books 🔖 (mainly genres like science & technology, business and finance, religion, and history)                                                      
+🗺️ Traveling, exploring, and simply learning about new cities, countries, and cultures                                                                      
 
 
 ## How to reach me 📬
