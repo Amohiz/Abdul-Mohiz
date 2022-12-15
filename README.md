@@ -14,10 +14,9 @@ My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz)
 🌁 Born in Pakistan and raised in Richmond, CA (East Bay Area)  
 🧳 Moved to the states when I was two with my mother while my father was here working.    
 🐻 Began my college journey at Cal as an undergrad pursuing Economics 
-
 💻 Shortly after, I took my first Intro to Economics class taught by Professor Olney- I became drawn to it   
 🧑‍🏫 Worked various independent roles to support the family while being a full time student.      
-🔋 Landed my first full time job at JonesIT the last semester I was at CAL. Currently working there as an IT Consultant. However, in my freetime, I am learning Python and enjoying the language and looking to grow in the corporate world.  
+🔋 Landed my first full time job at JonesIT(https://www.itjones.com/?utm_term=jones%20it&utm_campaign=SEA%20-%20BRAND&utm_source=adwords&utm_medium=ppc&hsa_acc=1817962299&hsa_cam=933182639&hsa_grp=46006054709&hsa_ad=345498498683&hsa_src=g&hsa_tgt=kwd-886084170675&hsa_kw=jones%20it&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1ZpGf0UEzl34ZIuWT5wCMo4C3Gn8Dzi3YJQljM9nh0M2P_DQnJXdrAaAmoAEALw_wcB) the last semester I was at Cal. Currently working there as an IT Consultant. However, in my freetime, I am learning Python and enjoying the language and looking to grow in the corporate world. 
 ❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data analyst, product management, and entry level programming      
 
 
