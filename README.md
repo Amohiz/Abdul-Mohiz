@@ -1,9 +1,8 @@
 #### This is my personal website. Read on below to learn more about me!
 <br/>
 
-<p align="center">
-  <img
- src="![IMG_3756](https://user-images.githubusercontent.com/118480900/207977980-0a5e5474-dabd-4285-92ce-438ab36366a8.png)
+<<p align="center">
+  <img src="![IMG_3756](https://user-images.githubusercontent.com/118480900/207978323-88302fa0-b45d-4ee7-a3e9-bc01be5b011f.png)
 " width="250"/>
 </p>
 
