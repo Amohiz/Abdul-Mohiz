@@ -32,7 +32,7 @@ My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz)
 ## How to reach me 📬
 LinkedIn: [(https://www.linkedin.com/in/abdulmohiz/)](https://www.linkedin.com/in/abdulmohiz/))      
 Email: [abdulmohiz@berkeley.edu](abdulmohiz.berkeley.edu)  
-GitHub: [https://amohiz.github.io/Abdul-Mohiz.github.io/](https://amohiz.github.io/Abdul-Mohiz.github.io/)
+GitHub: [https://amohiz.github.io/Abdul-Mohiz/](https://amohiz.github.io/Abdul-Mohiz/)
 
 
 -------------------
