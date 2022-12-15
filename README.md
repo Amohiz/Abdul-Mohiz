@@ -11,11 +11,13 @@ My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz)
 
 
 ## My background 💁🏻‍♂️
-🌁 Born in Pakistan 🇵🇰 and raised in Richmond, CA (East Bay Area). 
-🧳 Murphy Elementary => Portola Middle => EC High => UC Berkeley => JonesIT => What's next? 
-🐻 Began my college journey at Cal as an undergrad pursuing Political Economics   
-💻 Shortly after, I took my first Intro to Economics class taught by Professor Olney, I became really drawn to it.       
-❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data science, data engineering, and data/product analytics     
+🌁 Born in Pakistan and raised in Richmond, CA (East Bay Area)  
+🧳 Moved to the states when I was two with my mother while my father was here working.    
+🐻 Began my college journey at Cal as an undergrad pursuing Economics 
+💻 Shortly after, I took my first Intro to Economics class taught by Professor Olney- I became drawn to it   
+🧑‍🏫 Worked various independent roles to support the family while being a full time student.      
+🔋 Landed my first full time job at JONESIT the last semester I was at CAL. Currently working there as an IT Consultant. However, in my freetime, I am learning Python and enjoying the language and looking to grow in the corporate world.  
+❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data analyst, product management, and entry level programming      
 
 
 ## Hobbies of mine 🙈
