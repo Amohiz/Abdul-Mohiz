@@ -38,5 +38,5 @@ GitHub: [https://github.com/tenzin-choezin](https://github.com/tenzin-choezin)
 -------------------
 <h1 align="center">Resume 👇</h1>
 
-![[pdf2png.zip](https://github.com/Amohiz/Abdul-Mohiz/files/10241016/pdf2png.zip)]
+![![pdf2png](https://user-images.githubusercontent.com/118480900/207976710-a6a1feae-75b3-4346-bfd0-eeb5afb70679.png)]
 
