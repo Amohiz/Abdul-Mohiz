@@ -39,6 +39,6 @@ GitHub: [https://github.com/tenzin-choezin](https://github.com/tenzin-choezin)
 -------------------
 <h1 align="center">Resume 👇</h1>
 
-[![Resume](https://user-images.githubusercontent.com/118480900/207976964-581258b8-6e99-41ac-997e-ac0063609a5d.png)]
+![]()
 
 
