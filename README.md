@@ -11,13 +11,11 @@ My name is **Abdul Mohiz** (spelled عبدالمعز and pronounced Abdul Mohiz)
 
 
 ## My background 💁🏻‍♂️
-🌁 Born in Pakistan 🇵🇰 and raised in Richmond, CA (East Bay Area)  
-🧳 Migrated to the United States when I was two- went to Murphy Elementary => Portola Middle => EC High => UC Berkeley  
+🌁 Born in Pakistan 🇵🇰 and raised in Richmond, CA (East Bay Area). Being born in Pakistan and migrating to the United States as a two-year-old with my mother while my father working day and night taught me the importance of hard work. My mother being a homemaker taught me the values of life. Being an only child, I was to fend for myself and it resulted in me becoming the first in my family to attend college, making me a first-generation college student. 
+Because of the number of struggles my family went through, I found my motivation; my family. I keen on becoming successful. However, I'm still grateful for these struggles because if it weren’t for these struggles, I may have never co-founded a clothing brand, SalamNation as a junior in high school or be admitted to UC Berkeley right after highschool, and give back to my community with any means possible.
+🧳 Murphy Elementary => Portola Middle => EC High => UC Berkeley => JonesIT => What's next? 
 🐻 Began my college journey at Cal as an undergrad pursuing Political Economics   
-💻 Shortly after, I took my first Intro to Economics class taught by Professor Olney, I became really drawn to it.     
-🧑‍🏫 Worked as a teaching assistant (TA) for [Data 88](https://data-88e.github.io/fa20/), a data science and economics connector course, as well as [Stat 88](http://stat88.org/), a course on probability and mathematical statistics in data science      
-🔋 Interned at [Pacific Gas and Electric Company](https://www.pge.com/) (PG&E) as a data engineer 📊 for the [PSPS](https://www.pge.com/en_US/residential/outages/public-safety-power-shuttoff/learn-about-psps.page) wildfire prevention team     
-🌐 Just finished interning at IBM as a data scientist 📈 for the [Watson AIOps](https://www.ibm.com/cloud/cloud-pak-for-watson-aiops) 🤖 team as part of the [Extreme Blue Technical Leadership Program](https://www.ibm.com/employment/extremeblue/)  
+💻 Shortly after, I took my first Intro to Economics class taught by Professor Olney, I became really drawn to it.       
 ❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data science, data engineering, and data/product analytics     
 
 
