@@ -2,8 +2,8 @@
 <br/>
 
 <p align="center">
-  <img src="![IMG_375]
-" width="250"/>
+  <img
+ src="[IMG_3756](https://user-images.githubusercontent.com/118480900/207977800-c258ddb5-6412-45b8-a5e7-86cb30c28406.png) " width="250"/>
 </p>
 
 ## An introduction 🤝🏼
